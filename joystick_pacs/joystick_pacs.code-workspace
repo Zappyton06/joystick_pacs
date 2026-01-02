@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../nemo_controller"
+		},
+		{
+			"path": "../../nemo_bringup"
+		},
+		{
+			"path": "../../nemo_description"
+		},
+		{
+			"path": "../../nemo_interfaces"
+		}
+	],
+	"settings": {}
+}
