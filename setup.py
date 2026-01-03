@@ -25,7 +25,9 @@ setup(
             'serialPub = joystick_pacs.serialPublisher:main',
             'armPub = joystick_pacs.armPublisher:main',
             'controlled_pub = joystick_pacs.controlled_publisher:main',
-            'imu_pub = joystick_pacs.imu_publisher:main'
+            'imu_pub = joystick_pacs.imu_publisher:main',
+            'simple_serial_pub = joystick_pacs.simple_serial_publisher:main',
+            'quali_state_machine = joystick_pacs.sauvc_quali_task:main'
         ],
     },
 )
